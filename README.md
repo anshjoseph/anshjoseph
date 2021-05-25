@@ -1,4 +1,12 @@
-<div align="center">
+<style>
+.center_img{
+  position:fixed;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  }
+</style>
+<div align="center" style='center_img>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
