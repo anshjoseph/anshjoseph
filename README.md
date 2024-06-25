@@ -27,28 +27,6 @@ I'm currently pursuing a B.Tech in Computer Science & Engineering at Bhilai Inst
 - Strengthened AES security and conducted DFA analysis.
 - Developed a robust algorithm for secure block cipher; currently working on a related research paper.
 
-## 💻 Projects
-
-- **Video Interpretation with Machine Learning** (Sep 2022 - Jan 2023)
-  - Utilized LSTM for recognizing hand symbols from videos to bridge the communication gap between abled and specially-abled individuals.
-
-- **ESP8266 Python Websocket Connection Server** (Jan 2023)
-  - Established bidirectional communication between ESP8266 and a FastAPI web server.
-
-- **Face Recognition** (Jan 2023)
-  - Implemented transfer learning for face recognition with sparse data.
-
-- **Gen API** (Dec 2021 - Apr 2022)
-  - Developed a Google App Script-based project to access Google Sheets as a database.
-
-- **Gen Framework** (Jan 2022 - Mar 2022)
-  - Created a framework to optimize Google App Script pages.
-
-- **Microservices Messaging App** (Apr 2021 - Aug 2021)
-  - Created a relay server for private communication between microservices.
-
-- **Video Encryption by 2D Cellular Automata** (Apr 2022 - Present)
-  - Developing a simple and effective method to encrypt and transmit video over a network.
 
 ## 🛠 Skills
 
